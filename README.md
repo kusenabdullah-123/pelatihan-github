@@ -1,2 +1,2 @@
 # pelatihan-github
-palatihan github pertemuan 1
+github pertemuan 1
